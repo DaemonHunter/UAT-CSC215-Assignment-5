@@ -23,7 +23,7 @@
     <ClCompile Include="pch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Code Breaker Training Simulation Program.cpp">
+    <ClCompile Include="Keywords.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
